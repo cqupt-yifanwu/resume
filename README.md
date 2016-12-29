@@ -13,7 +13,7 @@
 ### 技能清单
 - 熟悉HTML/CSS，了解HTML5/CSS3新特性并可以基本应用;
 - 熟悉javascript，了解ES6新特性;
-- 熟悉Aajx、JSON、JSONP等前端技术;
+- 熟悉Ajax、JSON、JSONP等前端技术;
 - 熟悉jquery库并可以熟练应用;
 - 掌握git常用命令，熟悉webpack、firebug等前端工具;
 - 了解react，并且对react技术栈有一定的学习;
@@ -39,7 +39,11 @@
 
 > - 作为项目小组的领导者和主要开发人员，该网站是一个展示实验室信息动态的网站，提供管理者上传资料、管理实验室项目动态等功能（共计11个页面）。
     - 使用原生javascript动画和分页等功能和效果。
+<<<<<<< HEAD
     - 使用Aajx和JSON与后台进行数据的交互和信息验证。
+=======
+    - 使用Ajax和JSON与后台进行数据的交互和信息验证。
+>>>>>>> origin/master
     - 使用requireJs实现模块化
     - 使用git来实现版本控制
 
