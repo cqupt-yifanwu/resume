@@ -15,7 +15,7 @@
 - 熟悉javascript，了解ES6新特性;
 - 熟悉Ajax、JSON、JSONP等前端技术;
 - 熟悉jquery库并可以熟练应用;
-- 掌握git常用命令，熟悉webpack、firebug等前端工具;
+- 掌握git常用命令，熟悉webpack、gulp、firebug等前端工具;
 - 了解react，并且对react技术栈有一定的学习;
 - 了解bootstrap，并可以简单应用;
 - 了解nodejs，可以完成简单的服务端搭建接口;
