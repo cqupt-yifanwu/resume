@@ -18,7 +18,7 @@
 - 掌握git常用命令，熟悉webpack、gulp、firebug等前端工具;
 - 了解react，并且对react技术栈有一定的学习;
 - 了解bootstrap，并可以简单应用;
-- 了解nodejs，可以完成简单的服务端搭建接口;
+- 了解nodejs，可以完成简单的服务端搭建接口,并对Express和Koa有一定的了解;
 - 了解基本的前端性能优化方法，有良好的编码习惯;
 
 ### 项目经验
