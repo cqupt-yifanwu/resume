@@ -32,7 +32,7 @@
 - [x] 使用node进行前后端分离，实现前后端并行开发、前端负责controller和view层、前端使用mock数据进行模拟等...
 - [x] 对同一类型页面（产品页、解决方案等）或者页面部分（比如banner）进行CMS系统化，实现了运营和产品可以独立产出页面
 - [x] 使用百度内部的一些轮子进行开发，比如模版语言etpl、模块化方案esl、代码检测工具fecs等
-- [x] 使用使用less进行css预处理、gulp进行自动化构建、使用es6的新特性等
+- [x] 使用使用less进行css预处理、gulp进行自动化构建、es6的新特性等
 
 
 - 个人博客/网站（2016.12）[https://github.com/cqupt-yifanwu/blog](https://github.com/cqupt-yifanwu/blog)
